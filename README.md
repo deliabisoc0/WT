@@ -1,5 +1,8 @@
 # WT
 Stages WT
+
+The project is on the Master Branch
+
 I have had to do a Node.js REST API project
 My project consist of an authentification form and a to do list
 In the stage 2 i have had only some html, css and js
